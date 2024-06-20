@@ -1,0 +1,43 @@
+﻿Output & Variables Assignment
+
+
+Ques3: How much space does following data types take ?
+
+
+1. int
+2. bool
+3. float
+
+
+Ans:
+1. int takes 4 bytes size.
+2. bool takes 1 bytes size.
+3. float takes 4 bytes size.
+
+
+
+
+Ques6: How many of these can be a variable name?
+
+
+01PWskills
+
+
+ _FLOAT
+
+
+ int
+
+
+ FLOAT
+
+
+ You will succeed 
+
+
+Ans: 
+a)invalid
+b)valid
+c)invalid
+d)valid
+e)invalid
