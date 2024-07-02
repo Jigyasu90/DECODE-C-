@@ -1,0 +1,11 @@
+﻿Conditionals - 1 Assignment 1
+Answer
+
+
+Q10 Predict the output of the below code:
+  
+
+
+
+Ans)
+value of b and c are respectively 300 and 200
