@@ -1,0 +1,38 @@
+﻿Conditionals - 2 Assignment 2
+Answer
+
+
+Q2) Predict the output:
+  
+
+Ans
+OUTPUT
+a = 15, b = 15 , c = 0
+
+
+Q3) Predict the output:
+  
+
+Ans
+OUTPUT
+x and y are equal
+
+
+Q4) Predict the output:
+  
+
+Ans)OUTPUT
+First character 1
+Second character 49
+
+
+Q5) Predict the output:
+  
+
+Ans) OUTPUT
+Value of t: 0
+Q6) Predict the output:
+  
+
+Ans) OUTPUT
+N
