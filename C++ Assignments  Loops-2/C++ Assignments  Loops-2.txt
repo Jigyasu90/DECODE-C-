@@ -1,0 +1,53 @@
+﻿C++ Assignments | Loops-2
+Answer
+Q1)Predict the output
+  
+
+Ans)OUTPUT
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop…………An infinite loop
+
+
+Q2)Predict the output
+  
+
+Ans) OUTPUT
+Hello
+Hello
+Hello
+
+
+Q3)Predict the output
+  
+
+Ans)OUTPUT
+In for loop
+In for loop
+In for loop
+
+
+Q4)Predict the output
+  
+
+Ans)OUTPUT
+9 1
+8 2
+7 3
+6 4
+5 5
+4 6
